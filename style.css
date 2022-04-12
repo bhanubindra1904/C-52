@@ -1,0 +1,39 @@
+.header {
+    background-color: rgb(0, 238, 254);
+    color: rgb(231, 12, 12);
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+h2 {
+    background-color: rgb(196, 196, 38);
+    color: rgb(240, 121, 2);
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+.footballers {
+
+    background-color: rgb(8, 173, 38);
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+    padding: 10px;
+    justify-content: space-evenly;
+    text-align: center;
+    font-size: 25px;
+    color: blueviolet;
+
+}
+
+.footer {
+    background-color: aqua;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: flex-end;
+
+
+}
